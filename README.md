@@ -6,8 +6,11 @@ A modern Android app built using **Jetpack Compos**e and **MVVM architecture**, 
 
 ## 🛠️ Tech Stack & Architecture
 🧩 MVVM Architecture for separation of concerns and maintainability
+
 🔁 State management with Jetpack Compose
+
 📦 Local JSON data loading (simulating API)
+
 🎨 Material 3 theming and custom UI components
  
 ## 🚀 Features

@@ -30,11 +30,8 @@ A modern Android app built using Jetpack Compose that helps users manage their i
    git clone https://github.com/MobileDevRepo/PolicyAndroid.git
    cd PolicyAndroid
 
+## [![Demo Video](assets/demo_thumb.png)](https://drive.google.com/file/d/1qHMM8IbnpivE_mQDiI8tsO8xMq36iDhs/view?usp=sharing)
+  
 ## 🚀 APK Link
-   ```bash
    https://drive.google.com/file/d/1u0W3B9ighyFKzWVzb5C0Kze50c8Mtdx4/view?usp=sharing
-
-
-
- 
  

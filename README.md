@@ -1,6 +1,6 @@
 # 📱 MyPolicy - Android App
  
-A modern Android app built using Jetpack Compose that helps users manage their insurance policies efficiently with an intuitive UI.
+A modern Android app built using **Jetpack Compose** that helps users manage their insurance policies efficiently with an intuitive UI.
  
 ---
  

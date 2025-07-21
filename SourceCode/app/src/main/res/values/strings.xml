@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Policy Summary</string>
+
+    <string name="dashboard">Dashboard</string>
+    <string name="my_policies">My Policies</string>
+    <string name="claims">My Claim</string>
+    <string name="profile">Profile</string>
+    <string name="name">Name</string>
+    <string name="sum_insured">Sum Insured</string>
+    <string name="valid_till">Valid Till</string>
+    <string name="next_premium">Next Premium</string>
+    <string name="next_premium_due">Next Premium Due</string>
+    <string name="start_date">Start Date</string>
+    <string name="maturity_date">Maturity Date</string>
+    <string name="last_premium_paid">Last Premium Paid</string>
+    <string name="policy_status">Policy Status</string>
+    <string name="total_policies">Total Policies</string>
+    <string name="claimed_policies">Claimed Policies</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="dummy_name">John Doe</string>
+    <string name="dummy_email">john.doe@example.com</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="tc"><![CDATA[Terms & Conditions]]></string>
+    <string name="search_placeholder">Enter Policy Number or Name…</string>
+    <string name="no_policy_found">No policy found</string>
+    <string name="no_claim_found">No claims found</string>
+    <string name="policy_no">Policy No:</string>
+
+</resources>

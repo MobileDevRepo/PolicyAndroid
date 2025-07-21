@@ -14,8 +14,7 @@ A modern Android app built using **Jetpack Compos**e and **MVVM architecture**, 
 🎨 Material 3 theming and custom UI components
  
 ## 🚀 Features
- 
-- 🔐 Splash Screen
+
 - 🏠 Dashboard with total and claimed policy summary
 - 📋 My Policies screen with:
   - Expandable cards for each policy
@@ -38,8 +37,10 @@ A modern Android app built using **Jetpack Compos**e and **MVVM architecture**, 
    ```bash
    git clone https://github.com/MobileDevRepo/PolicyAndroid.git
    cd PolicyAndroid
+   
+   https://www.geeksforgeeks.org/android/how-to-run-the-android-app-on-a-real-device/
 
-## [![Demo Video](assets/demo_thumb.png)](https://drive.google.com/file/d/1qHMM8IbnpivE_mQDiI8tsO8xMq36iDhs/view?usp=sharing)
+## [![Video](assets/demo_thumb.png)](https://drive.google.com/file/d/1qHMM8IbnpivE_mQDiI8tsO8xMq36iDhs/view?usp=sharing)
   
 ## 🚀 APK Link
    https://drive.google.com/file/d/1u0W3B9ighyFKzWVzb5C0Kze50c8Mtdx4/view?usp=sharing

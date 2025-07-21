@@ -34,14 +34,18 @@ A modern Android app built using **Jetpack Compos**e and **MVVM architecture**, 
 ## 🛠️ How to Run
  
 1. **Clone this repository**  
-   ```bash
+
    git clone https://github.com/MobileDevRepo/PolicyAndroid.git
+   
    cd PolicyAndroid
+   
+   For more detilas visit below link
    
    https://www.geeksforgeeks.org/android/how-to-run-the-android-app-on-a-real-device/
 
-## [![Video](assets/demo_thumb.png)](https://drive.google.com/file/d/1qHMM8IbnpivE_mQDiI8tsO8xMq36iDhs/view?usp=sharing)
+## Video
+   https://drive.google.com/file/d/15e1-Qubp3HLlz451vUWVtUIdROmR7kB3/view?usp=sharing
   
 ## 🚀 APK Link
-   https://drive.google.com/file/d/1u0W3B9ighyFKzWVzb5C0Kze50c8Mtdx4/view?usp=sharing
+   https://drive.google.com/file/d/1bB8-ytaKFyg2vyzUjC_HvEiHLCP4bLs4/view?usp=sharing
  

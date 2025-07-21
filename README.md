@@ -33,7 +33,7 @@ A modern Android app built using **Jetpack Compos**e and **MVVM architecture**, 
  
 ## 🛠️ How to Run
  
-1. **Clone this repository**  
+**Clone this repository**  
 
    git clone https://github.com/MobileDevRepo/PolicyAndroid.git
    
